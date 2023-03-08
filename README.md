@@ -15,7 +15,7 @@ This is how we calculated the gain to make sure 9 was an interesting number of c
 
 ```
 Gain = Silhouette_score_2-Silhouette_score_1
-Rverse Gain = Silhouette_Score3-Silhouette_socre2
+Rverse Gain = Silhouette_Score3-Silhouette_score2
 Final Metric = Score_absolute_value(Reverse Gain)
 Percentual = Sihlouette_score3/(Silhouette_score_2-1)
 ```
@@ -26,7 +26,10 @@ TSNE was also picked to make the dimensionality reduction, becuase it is a algor
 
 Then, Hierarchical Clustering was implemented to check if 9 was ineed a good cluster to segment the players. 
 
-![Hierarchical_Clustering](https://user-images.githubusercontent.com/84348494/223669263-e196d3b7-bb27-47a7-9164-bcdac8c1ae99.png)
+|![Hierarchical_Clustering](https://user-images.githubusercontent.com/84348494/223669263-e196d3b7-bb27-47a7-9164-bcdac8c1ae99.png)|
+|:--:| 
+| *Player's Dendogram* |
+
   
 When the highest vertical line is found, we then cross a horizonta line. This line will cut trough every other vertical line 9 times. This means that 9 clusters could albo be interesint for this algorithm. Later, the svore was 0.45.
 
@@ -34,9 +37,14 @@ When the highest vertical line is found, we then cross a horizonta line. This li
 
 Here are some players in ther respective cluster.
 
-![Division](https://user-images.githubusercontent.com/84348494/223670529-87cd2cac-5493-493d-ba2b-e2ed3cdde242.png)
+|![Division](https://user-images.githubusercontent.com/84348494/223670529-87cd2cac-5493-493d-ba2b-e2ed3cdde242.png)|
+|:--:| 
+| *Groups* |
 
-![Clustering_Analysis](https://user-images.githubusercontent.com/84348494/223670351-8da43c14-da1d-4ea2-861c-b061ca10e3f8.png)
+|![Clustering_Analysis](https://user-images.githubusercontent.com/84348494/223670351-8da43c14-da1d-4ea2-861c-b061ca10e3f8.png)|
+|:--:| 
+| *Peformance by Cluster and Position* |
+
 
 The `"6th Man"` cluster is composed of players with more playmaking and mid-range shot attempts. They usually have fewer minutes on the court than starters, but more minutes than an average reserve player.
 
