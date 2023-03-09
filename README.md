@@ -20,7 +20,7 @@ Final Metric = Score_absolute_value(Reverse Gain)
 Percentual = Sihlouette_score3/(Silhouette_score_2-1)
 ```
 
-TSNE was also picked to make the dimensionality reduction, becuase it is a algorith that it is better for lustering visulaizations in 2D.
+TSNE was also picked to make the dimensionality reduction, becuase it is a algorith that it is better for clustering visulaizations in 2D.
 
 ## Hierarchical Clustering
 
