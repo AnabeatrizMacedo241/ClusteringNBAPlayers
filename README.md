@@ -62,4 +62,8 @@ The `"Offensive Big Men"`are the players who dominate the interior of the oppone
 
 Last but not least, the `"Do it All"`. As the title says, this is a group of players who can do everything and they do everything amazingly. They have the highest points and assists per game. To be a part of this group, players need a 22+ PPG. We have all of the NBA positions in this cluster, and the teams who have these kinds of players rely on them to achieve good performances.
 
+## Next Steps:
+- Testing 2022-23 model for preivous seasons to see if some players changed clusters while they were still evolving
+- Testing in very season since the 80s to see how players back then would fit in today's modern NBA
+
 Data: basketball-reference.com
