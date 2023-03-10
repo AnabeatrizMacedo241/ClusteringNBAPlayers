@@ -66,4 +66,3 @@ Last but not least, the `"Do it All"`. As the title says, this is a group of pla
 - Testing 2022-23 model for preivous seasons to see if some players changed clusters while they were still evolving
 - Testing in very season since the 80s to see how players back then would fit in today's modern NBA (***In Progress***)
 
-Data: basketball-reference.com
