@@ -37,13 +37,13 @@ When the highest vertical line is found, we then cross a horizonta line. This li
 
 Here are some players in ther respective cluster.
 
-|![Division](https://user-images.githubusercontent.com/84348494/223670529-87cd2cac-5493-493d-ba2b-e2ed3cdde242.png)|
+|![Division](https://user-images.githubusercontent.com/84348494/226556674-162d82e1-bea7-44a0-b964-350c4ad38d6e.png)|
 |:--:| 
 | *Groups* |
 
 |![Clustering_Analysis](https://user-images.githubusercontent.com/84348494/223670351-8da43c14-da1d-4ea2-861c-b061ca10e3f8.png)|
 |:--:| 
-| *Peformance by Cluster and Position* |
+| *Peformance by Cluster and Position in the 2022-23 NBA Season* |
 
 
 The `"6th Man"` cluster is composed of players with more playmaking and mid-range shot attempts. They usually have fewer minutes on the court than starters, but more minutes than an average reserve player.
@@ -54,7 +54,7 @@ The `"Role Players"` usually start every game and if they do not, they are the f
 
 The `"Defensive Big Men"` group is composed of players that are able to protect the rim and pressure their opponents. They also have interesting points and rebounds per game. This cluster has more Centers than any other position.
 
-The `"Key Pieces"` is a cluster filled with shooters and some players who can call plays. They are great at finding their teammates while also being able to find good shots for themselves. This cluster has many shooting and point guards.
+The `"Key Player"` is a cluster filled with shooters and some players who can call plays. They are great at finding their teammates while also being able to find good shots for themselves. This cluster has many shooting and point guards.
 
 The `"Rising Stars"` are the players who are on the way to becoming good threats in the NBA. Usually, their primary role is to support the stars of the team, but when needed they are able to take the lead and get some good stats that make them start every game.
 
@@ -63,6 +63,6 @@ The `"Offensive Big Men"`are the players who dominate the interior of the oppone
 Last but not least, the `"Do it All"`. As the title says, this is a group of players who can do everything and they do everything amazingly. They have the highest points and assists per game. To be a part of this group, players need a 22+ PPG. We have all of the NBA positions in this cluster, and the teams who have these kinds of players rely on them to achieve good performances.
 
 ## Next Steps:
-- Testing 2022-23 model for preivous seasons to see if some players changed clusters while they were still evolving
-- Testing in very season since the 80s to see how players back then would fit in today's modern NBA (***In Progress***)
+- Testing 2022-23 model for preivous seasons to see if some players changed clusters while they were still evolving (***In progress***)
+- Testing in very season since the 80s to see how players back then would fit in today's modern NBA (Done)
 
