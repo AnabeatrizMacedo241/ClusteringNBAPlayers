@@ -50,11 +50,11 @@ The `"6th Man"` cluster is composed of players with more playmaking and mid-rang
 
 The `"Reserves"` and `"Bench Warmers"` were two really similar clusters. The first one has a little more time on the court and a slight point-per-game advantage. The second has basically no time on the court, but they are often called when the game is already done.
 
-The `"Role Players"` usually start every game and if they do not, they are the first option off the bench. They are able to put up some numbers every night, but they are mostly there to help to stretch the play and help the others get good shots.
+The `"Role Players"` usually start every game and if they do not, they are the first option off the bench. They are able to put up some numbers every night, but they are mostly there to help to stretch the play and help the others get good shots and adpat to necessary roles.
 
 The `"Defensive Big Men"` group is composed of players that are able to protect the rim and pressure their opponents. They also have interesting points and rebounds per game. This cluster has more Centers than any other position.
 
-The `"Key Player"` is a cluster filled with shooters and some players who can call plays. They are great at finding their teammates while also being able to find good shots for themselves. This cluster has many shooting and point guards.
+The `"Key Player"` is a cluster filled with players who can call plays. They are great at finding their teammates while also being able to find good shots for themselves. This cluster has many shooting and point guards. Usually, if they are not on court, the performance of the team falls. They are fundamental.
 
 The `"Rising Stars"` are the players who are on the way to becoming good threats in the NBA. Usually, their primary role is to support the stars of the team, but when needed they are able to take the lead and get some good stats that make them start every game.
 
@@ -62,7 +62,12 @@ The `"Offensive Big Men"`are the players who dominate the interior of the oppone
 
 Last but not least, the `"Do it All"`. As the title says, this is a group of players who can do everything and they do everything amazingly. They have the highest points and assists per game. To be a part of this group, players need a 22+ PPG. We have all of the NBA positions in this cluster, and the teams who have these kinds of players rely on them to achieve good performances.
 
-## Next Steps:
-- Testing 2022-23 model for preivous seasons to see if some players changed clusters while they were still evolving (***In progress***)
-- Testing in very season since the 80s to see how players back then would fit in today's modern NBA (Done)
+## Applying the Model for palyers between the 1980-2022 NBA season
 
+Understanding where old Players would fit in the modern redefined NBA positions proposed in this project. Make sure to check the dashboard below and pick the players of your liking to see how they were clustered and where they would fit based on 2022-23 season.
+
+[Dashboard to check Player's role evolution](https://public.tableau.com/app/profile/ana.beatriz.oliveira.de.macedo/viz/NBA_Cluster_Roles_AnaMacedo/Dashboard1)
+
+![Dashboard 1](https://user-images.githubusercontent.com/84348494/226567483-84d98217-6de3-4968-bfe0-d48d1df02549.png)
+|:--:| 
+| *Eample of some palyer's evolution during their NBA years* |
