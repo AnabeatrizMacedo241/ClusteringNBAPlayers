@@ -1,5 +1,5 @@
 # Clustering NBA Players
-Understanding the player's roles in modern NBA.
+[Understanding the player's roles in modern NBA - Article](https://www.samford.edu/sports-analytics/fans/2023/Machine-Learning-Uncovers-Nine-Distinct-Player-Types-in-the-NBA)
 
 `K-Means` and `Herarchical Clustering` to make the divisions.
 
